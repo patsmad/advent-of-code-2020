@@ -1,0 +1,4 @@
+headers.json
+.*
+!.gitignore
+__pycache__/*
