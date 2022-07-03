@@ -1,4 +1,8 @@
-headers.json
+python/headers.json
 .*
 !.gitignore
 __pycache__/*
+
+rust/*/target
+rust/hello_world/main.exe
+rust/hello_world/main.pdb
